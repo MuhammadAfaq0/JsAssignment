@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    padding: auto;
+    margin: 0;
+}
+.box{
+    align-items: center;
+    align-content: center;
+    
+}
+#btn{
+    color: aqua;
+    align-items: center;
+    justify-content: center;
+}
